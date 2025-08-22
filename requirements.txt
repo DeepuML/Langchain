@@ -1,0 +1,7 @@
+langchain
+langchain-community
+huggingface_hub
+faiss-cpu
+python-dotenv
+rich
+forex-python
