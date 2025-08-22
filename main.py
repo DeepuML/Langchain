@@ -11,7 +11,7 @@ from langchain.tools import Tool
 from langchain.agents import initialize_agent, AgentType
 from langchain.chains import RetrievalQA
 
-EURI_API_KEY = "euri-02bada99e8bed5fd1250d365d93c30abb89c621ce3d1a3a8e7a351f70c6aefe0"
+EURI_API_KEY = ""
 
 def euri_embed(text):
     url = "https://api.euron.one/api/v1/euri/embeddings"
